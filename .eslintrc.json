@@ -5,6 +5,7 @@
     "jest":true,
     "node":true
   },
+  "ignorePatterns":["**/__snapshots__/*"],
   "settings": {
     "react": {
       "version": "detect"
